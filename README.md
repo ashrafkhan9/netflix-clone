@@ -39,3 +39,6 @@ npm run build
 ```shell
 npm run start
 ```
+
+Live Link:
+https://netflix-clone-production-d282.up.railway.app/
